@@ -140,11 +140,11 @@ Real-time Predictions: Deploy the model to handle real-time prediction requests 
 
 Dashboards 
 
-![Patient Readmission Overview & Demographic Insights](Dashboards/Dashboard_1.png)
+![Patient Readmission Overview & Demographic Insights](dashboards/Dashboard_1.png)
 
-![Predicted Readmission Risk & Model Output Analysis](Dashboards/Dashboard_2.png)
+![Predicted Readmission Risk & Model Output Analysis](dashboards/Dashboard_2.png)
 
-![Machine Learning Model Evaluation & Feature Importance](Dashboards/Dashboard_3.png)
+![Machine Learning Model Evaluation & Feature Importance](dashboards/Dashboard_3.png)
 
 Key Insights from the Project
 
