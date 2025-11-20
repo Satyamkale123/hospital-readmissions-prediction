@@ -1,0 +1,13 @@
+
+## Dependencies
+
+- Python 3.8+
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- xgboost
+- tensorflow
+- google-cloud (for GCP usage)
+- apache-airflow (for ETL automation)
