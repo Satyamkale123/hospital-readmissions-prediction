@@ -89,7 +89,7 @@ Prediction API
 
 The trained model is deployed as a REST API using Google Cloud Functions/Cloud Run for real-time predictions.
 
-![Architecture_Diagram](Architecture_diagram.png)
+![Architecture_Diagram](Architecture_Diagram.png)
 
 How to Run the Project
 1. Clone the Repository
